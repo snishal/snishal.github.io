@@ -18,6 +18,7 @@ title: Home
             <a href="{{ site.facebook }}" target="_blank" class="text-white p-2"><i class="fa fa-facebook fa-3x" aria-hidden="true"></i></a>
             <a href="{{ site.linkedin }}" target="_blank" class="text-white p-2"><i class="fa fa-linkedin fa-3x" aria-hidden="true"></i></a>
             <a href="mailto:{{ site.mail }}" target="_blank" class="text-white p-2"><i class="fa fa-envelope fa-3x" aria-hidden="true"></i></a>
+            <a href="tel:{{ site.phone }}" target="_blank" class="text-white p-2"><i class="fa fa-phone fa-3x" aria-hidden="true"></i></a>
         </div>
     </div>
 </div>
