@@ -11,7 +11,7 @@ title: Home
         <p class="lead">
             {{site.introduction}}
         </p>
-        <h4><footer class="blockquote-footer">{{ site.name }}</footer></h4>
+        <h4><footer class="blockquote-footer text-right text-white">{{ site.name }}</footer></h4>
         <hr class="my-4" style="border-color:white;">
         <div class="lead text-right">
             <a href="{{ site.github }}" target="_blank" class="text-white p-2"><i class="fa fa-github fa-3x" aria-hidden="true"></i></a>
