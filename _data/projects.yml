@@ -9,3 +9,47 @@
 - title: Indoor Maps AR
   description: An Android App to navigate indoor, using ARCore.
   link: https://github.com/snishal/IMAR
+
+- title: Covid Tracker
+  description: Flutter App to track the covid cases and essentials in India.
+  link: https://github.com/snishal/Covid-India-Tracker
+
+- title: Animal Sounds
+  description: Socket Programming with file based BST for storage and LRU caching.
+  link: https://github.com/snishal/Animal-Sounds
+
+- title: E-Billing
+  description: Web portal for Billing and Inventory management of a shop.
+  link: https://github.com/vikashprajapati/E-Billing
+
+- title: Assembler
+  description: Visualization of one pass assembler using Javascript.
+  link: https://github.com/snishal/Assembler
+
+- title: The Plant App
+  description: Android app to predict plant name using Tensorflow.
+  link: https://github.com/snishal/Code-N-Counter-TPA
+
+- title: TechMarathon
+  description: Website for Department Tech Fest following MVC framework.
+  link: https://github.com/snishal/techmarathon
+
+- title: Farmer-E-Shop
+  description: WebApp for farmers to sell their crops withour middle man.
+  link: https://github.com/snishal/FarmerEShop
+
+- title: Tech-O-Hunt
+  description: Android app for Treasure Hunt in a College.
+  link: https://github.com/snishal/Acm/tree/master/ACM_TreasureHunt
+
+- title: Brain Games
+  description: Sudoku, Hitori, Kakuro on Web with timer.
+  link: https://github.com/snishal/Acm/tree/master/BrainGames
+
+- title: Pocket Expense
+  description: Android app to manage daily expenses.
+  link: https://github.com/snishal/PocketExpense
+
+- title: Hotel Management
+  description: Hotel Management Website to book rooms in PHP.
+  link: https://github.com/snishal/Hotel
